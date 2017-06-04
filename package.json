@@ -9,6 +9,7 @@
   "author": "azl",
   "license": "ISC",
   "dependencies": {
+    "chrono-node": "^1.3.3",
     "express": "^4.15.3"
   }
 }
